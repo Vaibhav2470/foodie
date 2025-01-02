@@ -13,7 +13,7 @@ const Testimonial = () => {
         </p>
       </div>
       <div className="testimonial-section-bottom">
-        <img src={ProfilePic} alt="" />
+        <img className="img-v" src={ProfilePic} alt="" />
         <p>
           Hi, This is Vaibhav Singh
         </p>
