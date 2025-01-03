@@ -13,9 +13,9 @@ const Footer = () => {
           <img src={Logo} alt="" />
         </div>
         <div className="footer-icons">
-          <BsTwitter />
+          <BsTwitter className="X" />
           <SiLinkedin />
-          <BsYoutube />
+          <BsYoutube className="Y" />
           <FaFacebookF />
         </div>
       </div>

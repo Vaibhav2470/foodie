@@ -450,3 +450,9 @@ nav {
         width: 80%;
   }
 }
+.X:hover{
+  color: cyan;
+}
+.Y:hover{
+  color: red;
+}
